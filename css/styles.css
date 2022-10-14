@@ -1,0 +1,12 @@
+h1 {
+    color: blue;
+    text-align: center;
+}
+
+.nav {
+    float: right;
+}
+
+button {
+    color: blueviolet;
+}
