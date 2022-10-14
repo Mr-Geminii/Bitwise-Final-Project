@@ -1,12 +1,26 @@
 h1 {
-    color: blue;
+    color: rgb(88, 88, 186);
     text-align: center;
+}
+
+body{
+    background-color: rgb(55, 213, 190);
 }
 
 .nav {
     float: right;
+    border-radius: 5px;
 }
 
-button {
-    color: blueviolet;
+.button {
+    background-color: #555555;
+    color: white;
+    transition-duration: 0.5s;
+
 }
+
+.button:hover {
+    background-color: rgb(55, 213, 190);
+
+  }
+  
